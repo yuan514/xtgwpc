@@ -1,0 +1,55 @@
+.detail_content{
+    margin: 128px 420px 0 420px;
+    padding: 120px 66px;
+    background: #ffffff;
+}
+.detail_content span{
+    display:block;
+    font-style: normal;
+    font-size: 28px;
+    color:#000000;
+}
+
+
+.detail_content .time{
+    width:100%;
+    font-style: normal;
+    font-size: 14px;
+    color:#999999;
+    margin-top:20px;
+}
+
+.detail_content .time em{
+    list-style: none;
+    font-style: normal;
+    font-size: 14px;
+    color:#999999;
+}
+
+.detail_content p{
+    font-size: 16px;
+    font-style: normal;
+    color: #666666;
+    margin-top: 40px;
+    text-align: justify;
+    text-justify: inter-ideograph;
+    line-height: 24px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

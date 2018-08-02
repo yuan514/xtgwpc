@@ -1,0 +1,233 @@
+.about_content{
+    width:1084px;
+    height:auto;
+    margin:0 auto;
+    margin-top:80px;
+    overflow: hidden;
+}
+.about_content .nav_left{
+    width:160px;
+    float:left;
+}
+
+.about_content .nav_left li{
+    width:100%;
+    height:20px;
+    margin-top:30px;
+}
+.about_content .nav_left li:nth-child(1){
+    margin-top:0;
+}
+
+
+/*公司简介*/
+.synopsis{
+    width:920px;
+    float:left;
+    border-left:1px solid #00a5ea;
+    position:relative;
+    /*display:none;*/
+}
+
+.synopsis span{
+    display:block;
+    color:#000000;
+    font-style: normal;
+    font-size: 18px;
+    margin-left:100px;
+}
+.synopsis i{
+    display:block;
+    font-style: normal;
+    color:#bbbbbb;
+    font-size: 12px;
+    margin-top:5px;
+    margin-left:100px;
+}
+.synopsis p{
+    margin-top:28px;
+    margin-left:100px;
+    font-style: normal;
+    font-size: 14px;
+    color:#666666;
+    line-height: 24px;
+}
+.select{
+    color:#00a5ea;
+}
+
+
+
+
+/*发展历程*/
+.compony_intro{
+    width:920px;
+    float:left;
+    border-left:1px solid #00a5ea;
+    position:relative;
+    display:none;
+}
+
+.compony_intro span{
+    display:block;
+     color:#000000;
+    font-style: normal;
+    font-size: 18px;
+    margin-left:100px;
+}
+.compony_intro i{
+    display:block;
+    font-style: normal;
+    color:#bbbbbb;
+    font-size: 12px;
+    margin-top:5px;
+    margin-left:100px;
+}
+
+.compony_intro .intro{
+    width:100%;
+    margin-top:38px;
+
+}
+
+.compony_intro .intro span{
+    display:block;
+    width:84px;
+    height:84px;
+    margin: 0 auto;
+    background: linear-gradient(to right,#47c0f0 ,#00a5ea);
+    border-radius:50%;
+    text-align: center;
+    font-size:14px;
+    font-style: normal;
+    color:#ffffff;
+    line-height: 84px;
+}
+.compony_intro .intro i{
+    display:block;
+    width:2px;
+    height:84px;
+    margin:0 auto;
+    background:#E5E5E5;
+}
+
+.compony_intro .intro em{
+    display:block;
+    width:10px;
+    height:10px;
+    border-radius: 50%;
+    margin:0 auto;
+    background:#E5E5E5;
+}
+.intro_posit li{
+    position:absolute;
+}
+.intro_posit li span{
+    display:block;
+    font-size: 14px;
+    font-style: normal;
+    color:#00a5ea;
+    margin-left: 0;
+}
+
+.intro_posit li p{
+    display:block;
+    font-size: 14px;
+    font-style: normal;
+    color:#333333;
+    margin-top:5px;
+}
+
+.intro_posit li:nth-child(1){
+    top:245px;
+    left:480px;
+}
+
+.intro_posit li:nth-child(2){
+    top:337px;
+    left:150px;
+}
+.intro_posit li:nth-child(2) span{
+    text-align: right;
+}
+
+
+.intro_posit li:nth-child(3){
+    top:600px;
+    left:480px;
+}
+.intro_posit li:nth-child(4){
+    top:695px;
+    left:324px;
+}
+
+.intro_posit li:nth-child(5){
+    top:790px;
+    left:480px;
+}
+
+.intro_posit li:nth-child(6){
+    top:882px;
+    left:385px;
+}
+
+.intro_posit li:nth-child(4) span{
+    text-align: right;
+}
+.intro_posit li:nth-child(6) span{
+    text-align: right;
+}
+
+
+/*企业文化*/
+
+/*企业标识*/
+.enterprise_logo{
+    width:920px;
+    float:left;
+    border-left:1px solid #00a5ea;
+    position:relative;
+    display:none;
+}
+
+.enterprise_logo span{
+    display:block;
+    color:#000000;
+    font-style: normal;
+    font-size: 18px;
+    margin-left:100px;
+}
+.enterprise_logo i{
+    display:block;
+    font-style: normal;
+    color:#bbbbbb;
+    font-size: 12px;
+    margin-top:5px;
+    margin-left:100px;
+}
+.enterprise_logo ul{
+    margin-top:20px;
+}
+.enterprise_logo ul li{
+    width:420px;
+    height:260px;
+    margin: 0 auto;
+}
+
+.enterprise_logo ul li:nth-child(2){
+    margin-bottom: 10px;
+}
+.enterprise_logo ul li img{
+    display:block;
+    width:100%;
+    height:100%;
+}
+
+
+
+
+
+
+
+
+/*合作伙伴*/

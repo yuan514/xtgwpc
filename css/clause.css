@@ -1,0 +1,48 @@
+.clause_content{
+    margin:128px 420px 0 420px;
+    padding:120px 66px;
+    background:#ffffff;
+}
+
+.clause_content span{
+    display:block;
+    text-align: center;
+    font-size: 30px;
+    font-style: normal;
+    color:#000000;
+}
+
+.clause_content i{
+    display:block;
+    text-align: center;
+    font-size: 12px;
+    font-style: normal;
+    color:#bbbbbb;
+    margin-top:15px;
+}
+
+.clause_content .clause_con{
+    margin-top:60px;
+}
+.clause_content .clause_con p{
+    font-size: 14px;
+    font-style: normal;
+    color:#333333;
+    text-align: justify;
+    text-justify: inter-ideograph;
+}
+.clause_content .clause_con p span{
+    display:block;
+    text-align: left;
+    font-size: 14px;
+    font-style: normal;
+    color:#333333;
+    margin-left:14px;
+}
+.clause_content .clause_con em{
+    display:block;
+    font-size: 24px;
+    font-style: normal;
+    color:#000000;
+    margin-top:60px;
+}

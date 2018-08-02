@@ -1,0 +1,153 @@
+.produce_content{
+    width:1084px;
+    height:auto;
+    margin:0 auto;
+    margin-top:80px;
+    overflow: hidden;
+}
+.produce_content .nav_left{
+    width:160px;
+    float:left;
+}
+
+.produce_content .nav_left li{
+    width:100%;
+    height:20px;
+    margin-top:30px;
+}
+.produce_content .nav_left li:nth-child(1){
+    margin-top:0;
+}
+
+.adver{
+    width:920px;
+    float:left;
+    border-left:1px solid #00a5ea;
+    position:relative;
+    margin-bottom:10px;
+    /*display:none;*/
+}
+
+.content{
+    width:920px;
+    float:left;
+    border-left:1px solid #00a5ea;
+    position:relative;
+    margin-bottom:10px;
+}
+
+.content span{
+    display:block;
+    color:#000000;
+    font-style: normal;
+    font-size: 18px;
+    margin-left:100px;
+}
+
+.content i{
+    display:block;
+    font-style: normal;
+    color:#bbbbbb;
+    font-size: 12px;
+    margin-top:5px;
+    margin-left:100px;
+}
+
+.content p{
+    padding: 20px 0 0 100px;
+    text-align: justify;
+    text-justify: inter-ideograph;
+    line-height: 24px;
+    color:#666666;
+    font-size:14px;
+}
+.content em{
+    display:block;
+    font-style: normal;
+    color:#00a5ea;
+    font-size: 16px;
+    margin-top:30px;
+    margin-left:100px;
+}
+.adver em{
+    display:block;
+    font-style: normal;
+    color:#00a5ea;
+    font-size: 16px;
+    margin-top:30px;
+    margin-left:100px;
+}
+
+.adver .adver_word{
+    margin-left:100px;
+    margin-top:20px;
+    width:814px;
+    box-shadow: 1px 1px 20px #CDEDFA;
+    overflow: hidden;
+    padding-bottom:60px;
+}
+
+.adver .adver_word img{
+    display:block;
+    width:200px;
+    height:60px;
+    margin-top:60px;
+    margin-left:60px;
+}
+
+.adver .adver_word p{
+    padding:26px 56px 0 56px;
+    text-align: justify;
+    text-justify: inter-ideograph;
+    line-height: 24px;
+    color:#666666;
+    font-size:14px;
+}
+
+/*.adver ul{*/
+    /*width:814px;*/
+    /*display: -webkit-box;*/
+    /*display: -webkit-flex;*/
+    /*display: -ms-flexbox;*/
+    /*display: flex;*/
+    /*justify-content: space-between;*/
+    /*-webkit-justify-content: space-between;*/
+    /*margin-left:100px;*/
+    /*margin-top:50px;*/
+/*}*/
+
+/*.adver ul li{*/
+    /*width:400px;*/
+    /*height:260px;*/
+    /*background:#EEEEEE;*/
+/*}*/
+
+.data{
+    display:none;
+}
+
+.sale{
+    display:none;
+}
+
+.media{
+    display:none;
+}
+
+.hand_computer{
+    display:none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
